@@ -3,7 +3,6 @@ EN
 Translated to english by machine, may contain inaccuracies
 
 Variant Library for the C Programming Language
-Created on 06/05/2026, repository: https:/github.com/walkingskyy/Variant-C
 
 ```cpp 
 // Structure that stores the necessary data types
@@ -49,7 +48,6 @@ variant_getPointer(variant); // under development
 
 RU 
 Библиотека Variant для языка программирования C
-Создано 05.06.2026, репозиторий: https:/github.com/walkingskyy/Variant-C
 
 ```cpp
 // Cтруктура, хранящая необходимые типы данных
